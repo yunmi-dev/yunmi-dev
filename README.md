@@ -12,7 +12,7 @@
   <p>
     <a href="mailto:yunmiii0226@khu.ac.kr"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=ffd6ec"/></a>
     <a href="https://github.com/yunmi-dev"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&color=ffb6c1"/></a>
-    <a href="https://velog.io/@yunmzz"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white&color=ffdbe9"/></a>
+    <a href="https://velog.io/@yovnmzz"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white&color=ffdbe9"/></a>
   </p>
 </div>
 
