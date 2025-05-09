@@ -78,7 +78,3 @@
 <p align="center">
   <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="60">
 </p>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=ffcad4&height=120&section=footer" />
-</div>
