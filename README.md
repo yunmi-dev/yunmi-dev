@@ -23,7 +23,7 @@
 
 🥔 **백엔드 개발**과 **클라우드 네이티브** 환경에 집중
 
-🌱 현재 **Spring Framework**와 **Docker** 심화 학습
+🌱 **Spring Framework**와 **Docker** 심화 학습
 
 👩‍💻 코드 디버깅과 문제 해결을 즐기는 개발자
 
