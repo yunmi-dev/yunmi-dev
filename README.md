@@ -17,42 +17,44 @@
 </div>
 
 ## 🌷 About Me
-안녕하세요, **안정적이고 확장성 있는 프론트엔드와 서버 개발**에 관심이 많은 개발자입니다. 클라우드 네이티브 환경에서의 백엔드 개발에 관심을 가지고 있으며, 다양한 프로젝트를 통해 실제 문제 해결 능력을 키우고 있습니다.
+안녕하세요, **안정적이고 확장성 있는 서버 개발**에 관심이 많은 개발자입니다.
+대용량 트래픽 환경에서의 동시성 제어, 성능 최적화에 관심을 가지고 있으며,
+실무와 가까운 프로젝트를 통해 문제 해결 능력을 키우고 있습니다.
 
-🎓 **경희대학교 컴퓨터공학과** (2022 ~ 현재)
+🎓 **경희대학교 컴퓨터공학과** (2022.03 ~ 2026.02)
 
-🥔 **웹 개발**에 집중하려고 합니다!
+🌱 **백엔드 개발자**로 성장 중
 
-🌱 **Spring Framework**와 **Docker** 학습중
+⚡ 동시성 이슈, 성능 최적화에 대해 공부하는 걸 즐깁니다
 
 👩‍💻 코드 디버깅과 문제 해결을 즐기는 개발자
 
 ## 🛠️ Tech Stack
+
 <div align="center">
   <h4>Backend</h4>
   <p>
     <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
     <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
     <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+    <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" />
   </p>
-  
+
   <h4>Database</h4>
   <p>
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
     <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
   </p>
-  
+
+  <h4>Cache</h4>
+  <p>
+    <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+  </p>
+
   <h4>DevOps & Cloud</h4>
   <p>
     <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-    <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  </p>
-  
-  <h4>Others</h4>
-  <p>
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-    <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
   </p>
 </div>
 
